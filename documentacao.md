@@ -1,0 +1,7 @@
+## Tentativas
+
+
+## Ideias
+
+
+## Erros
