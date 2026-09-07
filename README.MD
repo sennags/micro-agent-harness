@@ -21,4 +21,4 @@ Nesse sistema terá essa estrutura:
 ## Estado de estudo
 
 <u>*Início*</u>
-Como tenho conhecimento básico sobre Python, pensei que seria simples de entender o funcionamento das classes, schemas e o fluxo que o código em si vai tratar. **Mero engano**, acabei mais me atrapalhando e me atrasando tanto que só em 3/4 horas consegui compreender o que a base.py tinha que fazer. Decidi aprender primeiro como funciona o fluxo, do zero até o final. Ficando mais fácil de entender o código no meio.
+Como tenho conhecimento básico sobre Python, pensei que seria simples de entender o funcionamento das classes, schemas e o fluxo que o código em si vai tratar. **Mero engano**, acabei mais me atrapalhando e me atrasando tanto que só em 3/4 horas consegui compreender o que a base.py tinha que fazer. Decidi aprender primeiro como funciona o fluxo, do zero até o final. Ficando mais fácil de entender o código no meio. O que me leva a teoria novamente.
